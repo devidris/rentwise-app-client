@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-main-41:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-merged_res-39:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-main-41:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-merged_res-39:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-main-41:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-merged_res-39:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-main-41:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.rentwisegh.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.rentwisegh.app-main-41:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-merged_res-39:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-main-41:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-merged_res-39:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-main-41:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-merged_res-39:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-main-41:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.rentwisegh.app-merged_res-39:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.rentwisegh.app-main-41:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-merged_res-39:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-main-41:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.rentwisegh.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.rentwisegh.app-main-41:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-merged_res-39:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-main-41:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-main-41:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.rentwisegh.app-merged_res-39:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.rentwisegh.app-main-41:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.rentwisegh.app-merged_res-39:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.rentwisegh.app-main-41:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-merged_res-39:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-main-41:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-merged_res-39:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-main-41:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.rentwisegh.app-merged_res-39:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.rentwisegh.app-main-41:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-main-41:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-merged_res-39:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-main-41:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.rentwisegh.app-merged_res-39:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.rentwisegh.app-main-41:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.rentwisegh.app-merged_res-39:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.rentwisegh.app-main-41:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-merged_res-39:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-main-41:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-merged_res-39:/drawable_rn_edit_text_material.xml.flat",
+        "source": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-main-41:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-merged_res-39:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-main-41:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-merged_res-39:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/jahan/.gradle/daemon/8.0.1/com.rentwisegh.app-main-41:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.rentwisegh.app-merged_res-39:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.rentwisegh.app-main-41:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.rentwisegh.app-merged_res-39:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.rentwisegh.app-main-41:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.rentwisegh.app-merged_res-39:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.rentwisegh.app-main-41:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.rentwisegh.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.rentwisegh.app-main-41:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.rentwisegh.app-merged_res-39:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.rentwisegh.app-main-41:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.rentwisegh.app-merged_res-39:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.rentwisegh.app-main-41:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.rentwisegh.app-merged_res-39:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.rentwisegh.app-main-41:/mipmap-xhdpi/ic_launcher_round.webp"
+    }
+]
